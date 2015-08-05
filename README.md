@@ -1,2 +1,2 @@
 # Notes
-My notes
+My notes are now open sourceified.
